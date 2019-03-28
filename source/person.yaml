@@ -1,9 +1,9 @@
 name: Daniel Lewis
 # Info to show in header
-email: daniel.lewis.software.engineer@gmail.com
+email: dan@helveticascenario.dev
 location: Austin, TX
 # Header introduction / mission statement
-intro: "I'm a software engineer with 5 years professional experience. I'm available for software consulting."
+intro: "I'm a software engineer with 6 years professional experience. I'm available for software consulting."
 #for Twitter cards:
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
@@ -18,5 +18,5 @@ proficiencies:
 # Links to include in header
 links:
   # text: http://link.com
-  'GitHub': https://github.com/helveticascenario
+  'GitHub': https://github.com/HelveticaScenario
   'LinkedIn': https://www.linkedin.com/in/daniel-lewis-7a136545/

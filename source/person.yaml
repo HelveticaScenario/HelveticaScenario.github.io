@@ -3,7 +3,7 @@ name: Daniel Lewis
 email: dan@helveticascenario.dev
 location: Austin, TX
 # Header introduction / mission statement
-intro: "I'm a software engineer with 6 years professional experience. I'm available for software consulting."
+intro: "Over 6+ years in web development with a focus on UI creating CMS Platforms, I carry strong expertise in React, Redux, Typescript, CSS, and HTML. Outside of work, I enjoy programming creative applications such as game engines, experimental graphics platforms, and tools to aid in the production of electronic music with a myriad of technologies such as Rust, Max/MSP, C/C++, Javascript, Typescript, and Unity."
 #for Twitter cards:
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
